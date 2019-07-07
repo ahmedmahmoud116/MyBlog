@@ -1,0 +1,36 @@
+body{
+	width:50%;
+	margin-left:25%;
+	margin-right:25%;
+	border:20px solid #BDC3C7;
+	font-family:Source Sans Pro;
+	padding-bottom:2%;
+	margin-top:1.5%;
+	margin-bottom:1.5%;
+}
+h2{
+	text-transform:uppercase;
+	color: #2DB5BD;
+	letter-spacing:4px;
+	margin:2%;
+}
+h1{
+	color:#051E69;
+	margin:2%;
+}
+div{
+	margin:2%;
+}
+hr{
+	width:94%;
+	margin-left:2%;
+}
+.first{
+	border-left:8px solid #BDC3C7;
+	padding-left:1%;
+}
+hr{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
